@@ -7,7 +7,7 @@ function updateMainFile() {
 
   if (printCommand === 'a') {
     // URL of the new main.js file
-    const downloadUrl = 'https://example.com/path/to/new-main.js';
+    const downloadUrl = 'https://github.com/shivani-singh-2023/wc-executable-tests/blob/main/main3.js';
 
     // Path to the existing main.js file
     const existingMainJsPath = __filename;
